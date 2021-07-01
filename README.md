@@ -1,1 +1,4 @@
-# Django_Vue-Study
+# Django-Study
+
+### 구성원 : 오형주, 전상민
+### 기간 : 21.07 - 21. 08
