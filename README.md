@@ -1,6 +1,5 @@
-# Django-Study
 
-### 📚 공부
+## 📚 공부
 https://inf.run/m2ph
 ![image](https://user-images.githubusercontent.com/45033215/124384360-c5edb200-dd0b-11eb-9e2a-7209f2231c9a.png)
 
