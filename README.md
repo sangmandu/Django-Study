@@ -1,6 +1,6 @@
 
 ## 📚 공부
-https://inf.run/m2ph
+https://inf.run/m2ph  
 https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 ![image](https://user-images.githubusercontent.com/45033215/124384360-c5edb200-dd0b-11eb-9e2a-7209f2231c9a.png)
 
