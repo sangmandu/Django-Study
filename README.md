@@ -69,6 +69,6 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 * [조성범](https://github.com/KrDmitri)  
 * [황인태](https://github.com/Inte-H)  
 
->$$
+$$
   \frac{x_i}{n}
 $$
