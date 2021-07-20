@@ -1,0 +1,22 @@
+html이란
+__H__yper__T__ext __M__arkup __L__anguage
+웹 페이지의 모습을 표현하는 __마크업__ 언어이다(프로그래밍 언어가 아님!)
+보통 웹 요소들의 위치 같은 틀의 역할이고 스타일링도 할 수 있지만 가독성의 문제로 웹의 스타일링은 css로 분리되었고 현재 그런 용도로 잘 쓰이진 않는다
+
+html의 형태
+<tag name [property=“~”]>element</tag name>\
+태그의 이름을 꺽쇠로 감싸고 문장의 끝에 /를 붙인 태그로 감싸준다
+앞쪽의 태그 안에는 어떠한 속성을 갖는 경우 그 속성의 이름을 앞쪽에, 그리고 = 뒤쪽에 속성값을 따옴표를 씌워서 표시한다
+
+![image](https://henryegloff.com/media/How-to-Develop-a-Basic-Webpage-Using-HTML-and-CSS-Tutorial-2.jpg)
+(웹페이지의 html)
+
+css
+__C__ascading __S__tyle __S__heets
+html이 표시되는 방법을 정해놓은 언어이다. 
+우리가 눈으로보는 웹의 모습을 보여주는 역할을 한다. 폰트, 색, 크기 등등 많은 것들을 css로 설정할 수 있다.
+html 문서 안에 바로 쓸 수도 있지만 각각의 페이지에 같은 스타일을 적용하기 쉽게 하기 위해 css문서를 만들고 각 html 파일에서 css문서를 참조하게 할 수 있다.
+
+JavaScript
+웹페이지의 동적인 부분을 표시하는 역할을 한다.
+html은 마크업 언어이므로 프로그래밍 언어와 같이 우리가 원하는 것들을 다 표현하지 못하고 js는 이를 보조하는 역할을 한다.
