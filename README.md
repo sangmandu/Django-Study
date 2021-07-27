@@ -53,6 +53,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |상민|✅|✅|✅|✅|✅|✅|
 |성범|✅|✅|✅|✅|✅|✅|
 |인태|✅|✅|✅|✅|✅|✅|
+|성현|✅|✅| | | | |
 
 > 둘째주
 
@@ -62,6 +63,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |상민|✅|||||
 |성범|✅|✅|✅|||
 |인태|✅|||||
+|성현||||||
 
 > 셋째주
 
@@ -71,6 +73,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |상민|||||
 |성범|||||
 |인태|||||
+|성현||||||
 
 > 넷째주
 
@@ -80,6 +83,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |상민||||
 |성범||||
 |인태||||
+|성현||||||
 
 > 다섯째주
 
@@ -89,6 +93,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |상민||||
 |성범||||
 |인태||||
+|성현||||||
 
 ## 📚 현재 벌금
 형주 : 8000원  
@@ -102,5 +107,5 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 * [전상민](https://github.com/sangmandu)  
 * [조성범](https://github.com/KrDmitri)  
 * [황인태](https://github.com/Inte-H)  
-* 
+* [정성현](https://github.com/sunghyun-Jung)  
 
