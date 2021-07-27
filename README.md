@@ -95,10 +95,12 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 상민 : 5000원  
 성범 : 11,000원  
 인태 : 5000원  
+성현 : 0원
 
 ## 📚 구성원
 * [오형주](https://github.com/Loonie95)  
 * [전상민](https://github.com/sangmandu)  
 * [조성범](https://github.com/KrDmitri)  
 * [황인태](https://github.com/Inte-H)  
+* 
 
