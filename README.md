@@ -70,7 +70,7 @@ https://github.com/saintdragon2/do_it_django_inflearn_2021.git
 |형주|||||
 |상민|||||
 |성범|✅|✅|||
-|인태|||||
+|인태|✅||||
 
 > 넷째주
 
